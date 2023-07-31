@@ -1,2 +1,2 @@
 # uzum
-for testing only 
+for testing purpose
